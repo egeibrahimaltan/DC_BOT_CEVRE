@@ -39,4 +39,4 @@ async def on_message(message):
             resim = discord.File(cevrefoto)
         await message.channel.send(file=resim)
 
-client.run("MTIwNTkxOTE0NjQ0NjE1OTk5NA.GeVkyr.uCToi766Cyoqp2uOTnMAsTaIlJM63qWLeUicZo")
+client.run("TOKEN")
